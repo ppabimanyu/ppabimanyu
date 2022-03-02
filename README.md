@@ -1,12 +1,7 @@
+<img width=100% src="https://i.giphy.com/RThN0hOS2GO4M.gif" />
+</br>
+
 # Konichiwa <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/cool-doge.gif" width="30px">
-
-<div align="center">
-<p align="center" width=100%><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-</div>
-
-</br>
-</br>
-</br>
 
 # About ME 💬 :
 
