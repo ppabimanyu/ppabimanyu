@@ -3,18 +3,18 @@
 
 # Konichiwa 
 
-<h2>I'm 21 years old <s>fake</s> developer <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/cool-doge.gif" width="40px"></h2>
+<h2>I'm 21 years old <s>fake</s> developer <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/cool-doge.gif" width="30px"></h2>
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
 
-- ✨ Back-end Golang <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/pepe_naruto.gif" width="40px">
+- ✨ Back-end Golang <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/pepe_naruto.gif" width="20px">
 
 ### - Hobbies :
 
 - ✨ Gaming Addict
-- ✨ Watching Anime <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/catjam.gif" width="40px">
+- ✨ Watching Anime <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/catjam.gif" width="20px">
 - ✨ Reading Light Novels
 - ✨ Music
 
