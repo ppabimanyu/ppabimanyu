@@ -1,7 +1,7 @@
 <img width=100% src="https://i.giphy.com/RThN0hOS2GO4M.gif" />
 </br>
 
-# Konichiwa 
+# Konichiwa 👋
 
 <h2>I'm 21 years old <s>fake</s> developer <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/cool-doge.gif" width="30px"></h2>
 
