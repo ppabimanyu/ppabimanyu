@@ -1,7 +1,7 @@
-# Konichiwa 👋
+# Konichiwa <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/cool-doge.gif" width="30px">
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<p align="center" width=100%><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 </div>
 
 </br>
