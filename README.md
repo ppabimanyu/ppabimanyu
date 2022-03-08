@@ -30,13 +30,13 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/icons/javascript.png" alt="script"  width="100" hight="50">
 <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/icons/go.png" alt="GO" width="100" hight="50">
 <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/icons/css.png" alt="CSS" width="180" hight="50">
 <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/icons/sass.png" alt="SASS" width="180" hight="50">
 </br>
 <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/icons/html.png" alt="HTML" width="120" hight="50">
+<img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/icons/javascript.png" alt="script"  width="120" hight="50">
 <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/icons/flutter.png" alt="Flutter" width="120" hight="50">
 <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/icons/php.png" alt="PHP" width="120" hight="50">
 <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/icons/react.png" alt="React" width="120" hight="50">
