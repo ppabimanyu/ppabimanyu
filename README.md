@@ -3,7 +3,7 @@
 
 # Konichiwa 👋
 
-<h2>I'm 21 years old <s>fake</s> developer <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/cool-doge.gif" width="30px"></h2>
+<h2>I'm 21 years old <s>fake</s> Programmer <img src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/cool-doge.gif" width="30px"></h2>
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/ppabimanyu/ppabimanyu/blob/main/assets/1936.gif">
 
