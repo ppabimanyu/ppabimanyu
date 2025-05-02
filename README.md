@@ -1,7 +1,7 @@
 ![banner](assets/banner.png)
 
 <div align="center">
-  <img height="150" src="assets/13626.gif"  />
+  <img height="150" width="150" src="assets/13626.gif"  />
 </div>
 
 ###
